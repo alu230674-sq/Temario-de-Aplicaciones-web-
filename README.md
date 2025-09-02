@@ -78,7 +78,7 @@ Seguridad y rendimiento: HTTPS, optimización de recursos, protección contra at
   
 
 #TIPOS DE APLICACIONES WEB
-Copilot said: Los **tipos de aplicaciones web** más comunes  
+Los **tipos de aplicaciones web** más comunes   
 Los tipos de aplicaciones web más comunes son:  
 Aplicaciones web estáticas  
 El contenido cambia según las interacciones del usuario o datos externos.  

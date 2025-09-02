@@ -1,4 +1,4 @@
-# Temario-de-Aplicaciones-web-  
+** ** y _ _# Temario-de-Aplicaciones-web-  ** ** y _ _
 Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 1.-Introducción al desarrollo web  
 Historia y evolución del desarrollo web  
@@ -45,3 +45,5 @@ Optimización de recursos (imágenes, scripts)
 Despliegue de aplicaciones web  
 CI/CD básico  
 Documentación del proyecto  
+
+

@@ -90,5 +90,21 @@ Aplicaciones web de gestión de contenido (CMS)
 Aplicaciones web empresariales  
 Aplicaciones web portal  
 
+2:#ARQUITECTURA DE APLICACIONES WEB
+1. Arquitectura Cliente-Servidor  
+Cliente: Es la parte que el usuario utiliza, generalmente el navegador web, que realiza peticiones al servidor y muestra la interfaz gráfica.  
+Servidor: Procesa las peticiones del cliente, ejecuta la lógica de la aplicación, accede a bases de datos y envía respuestas al cliente.  
+2. Arquitectura de Tres Capas  
+Presentación (Frontend): Es la interfaz de usuario y la capa con la que interactúa el cliente (HTML, CSS, JavaScript).  
+Lógica de negocio (Backend): Donde se procesan las reglas y operaciones principales de la aplicación (servidor, APIs, procesamiento de datos).  
+Datos: Es la capa encargada de almacenar y gestionar la información (bases de datos como MySQL, PostgreSQL, MongoDB).  
+3. REST y API-first Design  
+REST: Es un estilo arquitectónico para diseñar servicios web. Utiliza HTTP y recursos identificados por URLs, con operaciones como GET, POST, PUT, DELETE.  
+API-first: Significa que el diseño y desarrollo de la API es una prioridad, permitiendo que el frontend y el backend interactúen a través de interfaces bien definidas.
+
+#ARQUITECTURA DE 3 CAPAS
+
+
+
 
 

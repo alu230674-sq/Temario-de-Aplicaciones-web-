@@ -1,4 +1,4 @@
-****y__# Temario-de-Aplicaciones-web-  ****y __
+# Temario-de-Aplicaciones-web-
 Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 1.-Introducción al desarrollo web  
 Historia y evolución del desarrollo web  
@@ -45,5 +45,19 @@ Optimización de recursos (imágenes, scripts)
 Despliegue de aplicaciones web  
 CI/CD básico  
 Documentación del proyecto  
+
+#TIPOS DE APLICACIONES WEB
+Copilot said: Los **tipos de aplicaciones web** más comunes
+Los tipos de aplicaciones web más comunes son:
+Aplicaciones web estáticas
+El contenido cambia según las interacciones del usuario o datos externos.
+Ejemplo: redes sociales, blogs, foros.
+Aplicaciones de una sola página (SPA, Single Page Application)
+Aplicaciones web progresivas (PWA, Progressive Web Application)
+Aplicaciones web de comercio electrónico
+Aplicaciones web de gestión de contenido (CMS)
+Aplicaciones web empresariales
+Aplicaciones web portal
+
 
 
